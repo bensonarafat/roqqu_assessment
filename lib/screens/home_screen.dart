@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:roqqu_assessment/assets.dart';
+import 'package:roqqu_assessment/screens/widgets/buy_sell.dart';
 import 'package:roqqu_assessment/screens/widgets/charts.dart';
 import 'package:roqqu_assessment/screens/widgets/exchange_details.dart';
 import 'package:roqqu_assessment/screens/widgets/orderbook.dart';
+import 'package:roqqu_assessment/screens/widgets/transactions.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
