@@ -3,6 +3,7 @@ import 'package:provider/provider.dart';
 import 'package:roqqu_assessment/assets.dart';
 import 'package:roqqu_assessment/constants.dart';
 import 'package:roqqu_assessment/provider/chart_provider.dart';
+import 'package:roqqu_assessment/screens/widgets/trading_chart.dart';
 
 class Charts extends StatelessWidget {
   const Charts({super.key});
