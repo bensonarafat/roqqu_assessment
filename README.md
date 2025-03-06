@@ -4,8 +4,8 @@ This project is a mobile UI implementation based on the provided Figma design, u
 
 iOS  | Android
 ------------- | -------------
-![Video Name](./demo/android.mp4)
- |![Video Name](./demo/ios.mp4)
+https://github.com/bensonarafat/roqqu_assessment/blob/dcad2b5d3755164b00eb787b8e243c68802e60fc/demo/android.mp4
+ | https://github.com/bensonarafat/roqqu_assessment/blob/dcad2b5d3755164b00eb787b8e243c68802e60fc/demo/ios.mp4
 
 Features
 
