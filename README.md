@@ -2,9 +2,9 @@
 
 This project is a mobile UI implementation based on the provided Figma design, utilizing the Binance WebSockets API for real-time candlestick and order book updates.
 
-<img src="https://github.com/bensonarafat/roqqu_assessment/blob/main/demo/ios.gif?raw=true" width="200"/> 
-
-<img src="https://github.com/bensonarafat/roqqu_assessment/blob/main/demo/android.gif?raw=true" width="200"/>
+iOS  | Android
+------------- | -------------
+<img src="https://github.com/bensonarafat/roqqu_assessment/blob/main/demo/ios.gif?raw=true" width="200"/>   | <img src="https://github.com/bensonarafat/roqqu_assessment/blob/main/demo/android.gif?raw=true" width="250"/> 
 
 Features
 
