@@ -30,7 +30,7 @@ Setup and Installation
 
 - Clone the repository: 
   ```bash
-  git clone https://github.com/yourusername/roqqu_assessment.git
+  git clone https://github.com/bensonarafat/roqqu_assessment.git
   ```
 - Navigate to the project directory: 
     ```
