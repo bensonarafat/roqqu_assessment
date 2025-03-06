@@ -40,18 +40,7 @@ flutter:
           style: italic
         - asset: assets/fonts/Satoshi-Bold.otf
           weight: 700 
-        - asset: assets/fonts/Satoshi-BoldItalic.otf
-          weight: 700 
-          style: italic 
-        - asset: assets/fonts/Satoshi-Italic.otf
-          style: italic 
-        - asset: assets/fonts/Satoshi-LightItalic.otf
-          weight: 300 
-          style: italic
         - asset: assets/fonts/Satoshi-Medium.otf
           weight: 500 
-        - asset: assets/fonts/Satoshi-MediumItalic.otf
-          weight: 500 
-          style: italic
         - asset: assets/fonts/Satoshi-Regular.otf
           weight: 400
