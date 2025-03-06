@@ -1,16 +1,48 @@
-# roqqu_assessment
+# Mobile Design Test - Roqqu
 
-A new Flutter project.
+This project is a mobile UI implementation based on the provided Figma design, utilizing the Binance WebSockets API for real-time candlestick and order book updates.
 
-## Getting Started
+<img src="https://github.com/bensonarafat/roqqu_assessment/blob/main/demo/ios.gif?raw=true" width="200"/> 
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/bensonarafat/roqqu_assessment/blob/main/demo/android.gif?raw=true" width="200"/>
 
-A few resources to get you started if this is your first Flutter project:
+Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Implements the provided Figma UI design in Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Integrates Binance WebSockets API for real-time candlestick and order book updates
+
+- Displays real-time market data in an interactive UI
+
+- Well-structured Flutter code following best practices
+
+Technologies Used
+
+- Flutter
+
+- Dart
+
+- WebSockets
+
+- Binance API
+
+Setup and Installation 
+
+- Clone the repository: 
+  ```bash
+  git clone https://github.com/yourusername/roqqu_assessment.git
+  ```
+- Navigate to the project directory: 
+    ```
+    cd roqqu_assessment
+    ```
+- Install dependencies: 
+  ```
+  flutter pub get
+  ```
+- Run the application: 
+  ```
+  flutter run
+  ```
+
+Thank you for reviewing my submission! 🚀
